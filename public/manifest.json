@@ -1,0 +1,22 @@
+{
+  "manifest_version": 2,
+
+  "name": "NetSuite Drawer",
+  "description": "",
+  "version": "1.0.1",
+  "content_scripts": [
+    {
+      "matches": [
+        "https://634494.app.netsuite.com/app/common/entity/*",
+        "https://634494-sb1.app.netsuite.com/app/common/entity/*"
+      ],
+      "js": ["content.js"],
+      "run_at": "document_end"
+    }
+  ],
+  "icons": {
+    "128":"Concentragon-80x80.png"
+  },
+  "web_accessible_resources": [ "content.js"],
+  "permissions": [ "activeTab"]
+}
