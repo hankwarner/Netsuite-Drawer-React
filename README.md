@@ -1,3 +1,6 @@
+![](https://www.dropbox.com/s/dbjigldnf3cfecg/ns%20drawer.gif?raw=1)
+
+
 # Description
 
 This project is a Google Chrome extension that allows Supply.com sales reps to access customer and item data from Netsuite ERP/CRM to Supply.com. To run the extension, activate the extension and . 
@@ -24,4 +27,3 @@ Opens a new browser window allowing a sales rep to shop on Supply.com and add it
 
 Runs a custom webpack using `webpack --mode production` into output folder `dist`. All files in the public folder are transferred to the `dist` folder as-is.
 
-![](https://www.dropbox.com/s/dbjigldnf3cfecg/ns%20drawer.gif?raw=1)
