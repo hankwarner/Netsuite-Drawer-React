@@ -24,4 +24,4 @@ Opens a new browser window allowing a sales rep to shop on Supply.com and add it
 
 Runs a custom webpack using `webpack --mode production` into output folder `dist`. All files in the public folder are transferred to the `dist` folder as-is.
 
-![](https://www.dropbox.com/s/dbjigldnf3cfecg/ns%20drawer.gif?dl=0)
+![](https://www.dropbox.com/s/dbjigldnf3cfecg/ns%20drawer.gif?raw=1)
