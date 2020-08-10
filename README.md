@@ -3,7 +3,7 @@
 
 # Description
 
-This project is a Google Chrome extension that allows Supply.com sales reps to access customer and item data from Netsuite ERP/CRM to Supply.com. To run the extension, activate the extension and . 
+This project is a Google Chrome extension that allows Supply.com sales reps to access customer and item data from Netsuite ERP/CRM to Supply.com. 
 
 Navigate to a customer record in Netsuite and click the Supply.com logo in the top right corner. Three options will be displayed:
 
